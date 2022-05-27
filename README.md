@@ -16,7 +16,7 @@ Tendo como objetivo a implementação de pilha para resolução de uma dada expr
 ## 📖 Instruções
 ---
 <br>
-1) Com base nos conceitos abordados em sala de aula, referente a estrutura de Dados Pilha, implemente uma calculadora especial, que realize a avaliação de expressões matemáticas.
+1) Com base nos conceitos abordados em sala de aula, referente a estrutura de Dados Pilha, implemente uma calculadora especial, que realize a avaliação de expressões matemáticas.<br><br>
 
 2) A calculadora deve trabalhar com os operandos:<br>
 ◦ Soma ( + ), Subtração ( - ) , Multiplicação ( * ) e Divisão ( / )<br>
