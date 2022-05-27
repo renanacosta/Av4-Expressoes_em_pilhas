@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Avaliação_3-Lista_Duplamente_Encadeada-%237159c1?style=for-the-badge&logo=ghost)
-# <p align="center">**LISTA DUPLAMENTE ENCADEADA (LDE)**</p>
+# <p align="center">**EXPRESSÕES MATEMÁTICAS - PILHA (PUSH/POP)**</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36648528/170606218-06e68005-c1c4-49b9-b72f-7431b3fcca79.png">
