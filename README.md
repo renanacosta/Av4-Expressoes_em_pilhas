@@ -31,7 +31,8 @@ Resolvendo expressões do tipo:<br>
 1 + { 3 – 125 + (3) -2 } =<br>
 1 + { 3 – 125 +1 } =<br>
 1 + { –121 } =<br>
-1 - 121 = -120<br>
+1 - 121 = <br>
+-120<br>
 
 3) Sugestão, usar duas pilhas uma para operações e outra para operandos;
 4) Atenção a precedência dos operadores;
