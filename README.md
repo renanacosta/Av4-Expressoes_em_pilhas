@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/Avaliação_4-Lista_Duplamente_Encadeada-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Avaliação_4-Pilhas-%237159c1?style=for-the-badge&logo=ghost)
 # <p align="center">**EXPRESSÕES MATEMÁTICAS - PILHA (PUSH/POP)**</p>
 
 <p align="center">
