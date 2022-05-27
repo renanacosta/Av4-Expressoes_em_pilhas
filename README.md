@@ -18,20 +18,20 @@ Tendo como objetivo a implementação de pilha para resolução de uma dada expr
 <br>
 1) Com base nos conceitos abordados em sala de aula, referente a estrutura de Dados Pilha, implemente uma calculadora especial, que realize a avaliação de expressões matemáticas.
 
-2) A calculadora deve trabalhar com os operandos:
-◦ Soma ( + ), Subtração ( - ) , Multiplicação ( * ) e Divisão ( / )
-◦ Potência ( x^y = x y ), Raiz quadrada ( ~x = √x )
-◦ Especiais: Parênteses ( ), Colchetes[ ] e Chaves { }
-◦ Sinais (+ , - )
+2) A calculadora deve trabalhar com os operandos:<br>
+◦ Soma ( + ), Subtração ( - ) , Multiplicação ( * ) e Divisão ( / )<br>
+◦ Potência ( x^y = x y ), Raiz quadrada ( ~x = √x )<br>
+◦ Especiais: Parênteses ( ), Colchetes[ ] e Chaves { }<br>
+◦ Sinais (+ , - )<br>
 
-Resolvendo expressões do tipo:
-1 + { 3 – [(2 + 6 / 2) ^ 3 ] + (~9) -2 } =
-1 + { 3 – [(5) ^ 3 ] + (~9) -2 } =
-1 + { 3 – [125] + (~9) -2 } =
-1 + { 3 – 125 + (3) -2 } =
-1 + { 3 – 125 +1 } =
-1 + { –121 } =
-1 - 121 = -120
+Resolvendo expressões do tipo:<br>
+1 + { 3 – [(2 + 6 / 2) ^ 3 ] + (~9) -2 } = <br>
+1 + { 3 – [(5) ^ 3 ] + (~9) -2 } =<br>
+1 + { 3 – [125] + (~9) -2 } =<br>
+1 + { 3 – 125 + (3) -2 } =<br>
+1 + { 3 – 125 +1 } =<br>
+1 + { –121 } =<br>
+1 - 121 = -120<br>
 
 3) Sugestão, usar duas pilhas uma para operações e outra para operandos;
 4) Atenção a precedência dos operadores;
